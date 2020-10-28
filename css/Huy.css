@@ -43,6 +43,7 @@ img{
 nav{
     background-color: #ffffff;
     border-bottom: 1px solid silver;
+
 }
 .logo {
     margin-top: -10px;
@@ -184,7 +185,7 @@ nav{
 .dropdown-content{
     display: none;
     position: absolute;
-    z-index: 1;
+    z-index: 999;
     list-style: none;
     background-color: #ffffff;
     line-height: 2;
@@ -344,6 +345,9 @@ nav{
 }
 .block_1-1:hover:after, .block_1-1:hover:before { transform: scaleX(1); }
 .block_1-1:after, .block_1-1:before{  transform-Origin:  0% 50%; }
+
+
+
 
 .block_1-2{
     color: black;
@@ -600,4 +604,13 @@ nav{
 
 .btn:hover:after {
     transform: translateX(-9%) translateY(-25%) rotate(45deg);
+}
+#dong_ho #thoi_gian{
+    display:flex;
+}
+#dong_ho #thoi_gian div{
+    position: relative;
+    left: -1110px;
+    top: 10px;
+    color: silver;
 }
