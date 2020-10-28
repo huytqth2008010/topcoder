@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_28_2020_4_20_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_28_2020_4_20_PM__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/topcoder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Huy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapnhom..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapnhom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Huy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/giang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/giang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ggg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gigi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/k - Copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/toto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/huy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/recent-news-wrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/boostrap 3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap.3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawaesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome-free-5.15.1/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jGAB1FfN4XnWr9d775bv2HmIgb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="" />
+      <created>1603419915365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603419915365</updated>
+      <workItem from="1603419916428" duration="776000" />
+      <workItem from="1603876635885" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
