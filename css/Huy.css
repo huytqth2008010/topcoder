@@ -19,12 +19,6 @@ img{
     float: left;
     width: 100%;
 }
-.container{
-    width: 1170px;
-    margin: 0 auto;
-    float: none;
-
-}
 .header{
     background-color: white;
     border-bottom: 1px solid #f2f2f2;
