@@ -178,7 +178,7 @@ nav{
 .dropdown-content{
     display: none;
     position: absolute;
-    z-index: 1;
+    z-index: 999;
     list-style: none;
     background-color: #ffffff;
     line-height: 2;
@@ -594,4 +594,14 @@ nav{
 
 .btn:hover:after {
     transform: translateX(-9%) translateY(-25%) rotate(45deg);
+}
+
+#dong_ho #thoi_gian{
+    display:flex;
+}
+#dong_ho #thoi_gian div{
+    position: relative;
+    left: -1110px;
+    top: 10px;
+    color: silver;
 }
