@@ -530,8 +530,6 @@ nav{
     position: relative;
     top: 500px;
     z-index: 99;
-    border: 1px solid #222222;
-    background-color: #222222;
     width: 92px;
     margin-top: -36px;
 }
@@ -556,18 +554,19 @@ nav{
     font-weight: 700;
     font-size: 15px;
     background-color: #222;
-    padding: 17px 80px;
     margin: 0 auto;
     border: 1px solid #337ab7;
 }
 .Khung_1{
-    padding-left: 25px;
     position: relative;
     left: -9px;
     z-index: 1;
 }
+button.btn{
+    padding: 6px 30px;
+    line-height: 1;
+}
 .KHUNG_1-1{
-    padding-left: 25px;
     position: relative;
     left: -9px;
     z-index: 1;
@@ -602,6 +601,6 @@ nav{
 #dong_ho #thoi_gian div{
     position: relative;
     left: -1110px;
-    top: 10px;
+    top: 9px;
     color: silver;
 }

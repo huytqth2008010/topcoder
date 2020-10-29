@@ -1,4 +1,6 @@
-
+.col-md-8{
+    padding: 0;
+}
 .main-left-1{
     width: 100%;
     height: 340px;
@@ -52,10 +54,10 @@
     70%  {background-color: brown;}
     100% {background-color: yellowgreen;}
 }
-img{
-    max-height: 300px;
-    max-width: 300px;
-}
+/*img{*/
+/*    max-height: 300px;*/
+/*    max-width: 300px;*/
+/*}*/
 .text-main{
     float: left;
     overflow: hidden;
