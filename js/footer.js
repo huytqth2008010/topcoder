@@ -20,7 +20,7 @@ function footer() {
         "                <div class=\"col-md-2\">\n" +
         "                    <div class=\"footer-widget\">\n" +
         "                        <div id=\"text-3\" class=\"widget footer-widget widget_text\"><h2 class=\"footer-widget-title\">Địa\n" +
-        "                            điểm</h2>\n" +
+        "                     điểm</h2>\n" +
         "                            <div class=\"textwidget\">\n" +
         "                                <ul class=\"footer-nav\">\n" +
         "                                    <li><a href=\"https://review.food.com.vn/dia-diem/nha-hang/\">Nhà hàng</a></li>\n" +
