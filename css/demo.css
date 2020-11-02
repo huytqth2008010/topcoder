@@ -6,6 +6,10 @@
     background-color: #000000;
 }
 
+.container {
+    position: relative;
+}
+
 .footer-mid {
     padding: 3rem 0;
 }
@@ -23,7 +27,6 @@
     font-family: sans-serif;
     color: #ffffff;
     font-weight: bold;
-    line-height: 1.4;
     font-size: 1.4rem;
     line-height: 1.6;
     color: #ffffff;

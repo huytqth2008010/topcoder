@@ -1,0 +1,14 @@
+Index: SonBe.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- SonBe.js	(date 1603877889517)
++++ SonBe.js	(date 1603877889517)
+@@ -0,0 +1,5 @@
++function stories() {
++    return ""
++}
++var hd = document.getElementById("header");
++hd.innerHTML = header();
+\ No newline at end of file

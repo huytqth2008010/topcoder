@@ -1,0 +1,691 @@
+Index: home1.html
+===================================================================
+--- home1.html	(revision e26bb21b69f8b36ba39289b4d7019e688d8b320c)
++++ home1.html	(revision e26bb21b69f8b36ba39289b4d7019e688d8b320c)
+@@ -1,10 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-    <h1>Giang ăn cu</h1>
+-</body>
+-</html>
+\ No newline at end of file
+Index: webReview.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- webReview.css	(date 1603875169914)
++++ webReview.css	(date 1603875169914)
+@@ -0,0 +1,477 @@
++*{
++    box-sizing: inherit;
++    word-wrap: inherit;
++}
++body{
++    font-size: 14px;
++    line-height: 16px;
++    font-family: Roboto, sans-serif ;
++    box-sizing: border-box;
++    background-color: whitesmoke;
++}
++a{
++    text-decoration: none;
++}
++ul{
++    list-style: none;
++    padding: 0;
++    margin: 0;
++}
++.content{
++    /*width: 1140px;*/
++    /*max-width: 100% ;*/
++    margin: 0 auto;
++}
++.topstr{
++    width: 1140px;
++    max-width: 100% ;
++    margin: auto;
++}
++.topstr_header_content{
++    font-size: 32px;
++    font-weight: 450;
++}
++.body_content_topstr{
++    width: 100%;
++    height: 550px;
++    display: flex;
++    flex-wrap: wrap;
++}
++.topstr_content_fist{
++    width: 730px;
++    height: 550px;
++    position: relative;
++}
++.move{
++    position: absolute;
++    bottom: 0;
++    padding-left: 3%;
++    margin-bottom: 30px;
++}
++.big_link{
++    color: #ffffff;
++    font-size: 30px;
++    text-align: center;
++    line-height: 35px;
++    font-weight: 500;
++}
++.small_link{
++    color: #ffffff;
++}
++.small_link:hover{
++    color: red;
++    transition: 0.5s;
++}
++.fist_list_content{
++    font-size: 12px;
++    color: white;
++    background-color: #007AFF;
++    padding: 5px 10px;
++    font-weight: 450;
++}
++.list_one{
++    padding-bottom: 1px;
++    padding-top: 5px;
++}
++.list_two{
++    padding-bottom: 12px;
++}
++.list_content{
++
++}
++.list_content2{
++    color: #ffffff;
++    display: flex;
++    margin-bottom: 25px;
++}
++.topstr_content_second{
++    width: 350px;
++    height: 260px;
++    margin-left: 30px;
++    position: relative;
++}
++.topstr_content_second2{
++    margin-top: 8.5%;
++    position: absolute;
++}
++.move3{
++    position: absolute;
++    color: #ffffff;
++    top: 46.5%;
++}
++.move2{
++    position: absolute;
++    top: 46.5%;
++    color: #ffffff;
++}
++.biglink2{
++    color: #ffffff;
++    font-size: 18px;
++    line-height: 25px;
++    font-weight: 450;
++}
++.list_content3{
++    width: 95%;
++    margin: auto;
++}
++.author{
++    color: #D3D7DA;
++    font-weight: 200;
++}
++.img2{
++    border: 1px solid yellowgreen;
++}
++.noidung {
++    overflow: hidden;
++}
++.zoomin img {
++    -webkit-transition: all 1s ease;
++    -moz-transition: all 1s ease;
++    -ms-transition: all 1s ease;
++    transition: all 1s ease;
++}
++.zoomin{
++    float: left;
++}
++.all-trendingstr{
++    background-color: #f9f9f9;
++}
++.trendingstr{
++    height: 621px;
++    width: 1140px;
++    max-width: 100% ;
++    margin: auto;
++}
++.trendingstr-header-list{
++    display: flex;
++    justify-content: space-between;
++    color: #333333;
++}
++.link-all-trend{
++    color: #333333;
++    font-weight: 450;
++}
++.text-trendingstr{
++    width: border-box;
++    font-size: 32px ;
++    font-weight: 450;
++}
++.trendingstr-header{
++    height: 74px;
++    margin-top: 120px;
++}
++.trendingstr1{
++    justify-content: inherit;
++    width: 550px;
++    height: 180px;
++    float: left;
++}
++.trendingstr2{
++    width: 550px;
++    height: 180px;
++    float: left;
++    margin-left: 3.5%;
++}
++.author2{
++    font-weight: 200;
++    color: #333333;
++}
++.small_link2{
++    color: #333333;
++}
++.small_link2:hover{
++    color: red;
++    transition: 0.5s;
++}
++.list-content-trending{
++    float: left;
++    padding-left: 7%;
++    line-height: 23px;
++    width: 400px;
++    height: 180px;
++}
++.list-content-trending2{
++    float: left;
++    padding-left: 7%;
++    line-height: 23px;
++    width: 400px;
++    height: 180px;
++}
++.fist-list-trend{
++    font-size: 12px;
++    color: white;
++    background-color: #007AFF;
++    padding: 5px 10px;
++    font-weight: 450;
++}
++.text-fist-list{
++    margin-top: 0;
++}
++.big-link-trend{
++    font-size: 18px;
++    font-weight: 450;
++    color: #333333;
++}
++.trendingstr1:hover .zoomin1{
++    transform: scale(1.1);
++}
++.trendingstr2:hover .zoomin1{
++    transform: scale(1.1);
++}
++.topstr_content_fist:hover .zoomin1{
++    transform: scale(1.1);
++}
++.topstr_content_second1:hover .zoomin1{
++    transform: scale(1.1);
++}
++.topstr_content_second2:hover .zoomin1{
++    transform: scale(1.1);
++}
++
++#block_1-1{
++    color: #ffffff;
++    line-height: 1.25;
++}
++#block_1-1:hover{
++    text-decoration: none;
++}
++#block_1-1:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px white;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 122px;
++}
++#block_1-1:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px white;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 40px;
++    width: 680px;
++}
++#block_1-1:hover:after {
++    transition-delay:100ms;
++}
++#block_1-1:hover:after, #block_1-1:hover:before { transform: scaleX(1); }
++#block_1-1:after, #block_1-1:before{  transform-Origin:  0% 50%; }
++
++#block_1-2{
++    color: #ffffff;
++    line-height: 1.25;
++}
++#block_1-2:hover{
++    color: white;
++    text-decoration: none;
++}
++#block_1-2:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px #ffffff;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 153px;
++}
++#block_1-2:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px #ffffff;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 320px;
++}
++#block_1-2:hover:after {
++    transition-delay:100ms;
++}
++#block_1-2:hover:after, #block_1-2:hover:before { transform: scaleX(1); }
++#block_1-2:after, #block_1-2:before{  transform-Origin:  0% 50%; }
++
++#block_1-3{
++    color: #ffffff;
++    line-height: 1.25;
++}
++#block_1-3:hover{
++    color: #ffffff;
++    text-decoration: none;
++}
++#block_1-3:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px #ffffff;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 178px;
++}
++#block_1-3:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px #ffffff;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 328px;
++}
++#block_1-3:hover:after {
++    transition-delay:100ms;
++}
++#block_1-3:hover:after, #block_1-3:hover:before { transform: scaleX(1); }
++#block_1-3:after, #block_1-3:before{  transform-Origin:  0% 50%; }
++
++#block_1-4{
++    color: black;
++    line-height: 1.25;
++}
++#block_1-4:hover{
++    color: black;
++    text-decoration: none;
++}
++#block_1-4:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 310px;
++}
++#block_1-4:hover:before { transform: scaleX(1); }
++#block_1-4:before{  transform-Origin:  0% 50%; }
++
++#block_1-5{
++    color: black;
++    line-height: 1.25;
++}
++#block_1-5:hover{
++    color: black;
++    text-decoration: none;
++}
++#block_1-5:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 220px;
++}
++#block_1-5:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 335px;
++}
++#block_1-5:hover:after {
++    transition-delay:100ms;
++}
++#block_1-5:hover:after, #block_1-5:hover:before { transform: scaleX(1); }
++#block_1-5:after, #block_1-5:before{  transform-Origin:  0% 50%; }
++
++#block_1-6{
++    color: black;
++    line-height: 1.25;
++}
++#block_1-6:hover{
++    color: black;
++    text-decoration: none;
++}
++#block_1-6:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 222px;
++}
++#block_1-6:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 360px;
++}
++#block_1-6:hover:after {
++    transition-delay:100ms;
++}
++#block_1-6:hover:after, #block_1-6:hover:before { transform: scaleX(1); }
++#block_1-6:after, #block_1-6:before{  transform-Origin:  0% 50%; }
++
++#block_1-7{
++    color: black;
++    line-height: 1.25;
++}
++#block_1-7:hover{
++    color: black;
++    text-decoration: none;
++}
++#block_1-7:after {
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 250ms ease-in-out;
++    width: 290px;
++}
++#block_1-7:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 340px;
++}
++#block_1-7:hover:after {
++    transition-delay:100ms;
++}
++#block_1-7:hover:after, #block_1-7:hover:before { transform: scaleX(1); }
++#block_1-7:after, #block_1-7:before{  transform-Origin:  0% 50%; }
++
++.backgr-text{
++    background-image: linear-gradient(rgb(0,0,0,0.0),black);
++    position: relative;
++    top: 0px;
++    width: 730px;
++    height: 550px;
++}
++.backgr-text2{
++    background-image: linear-gradient(rgb(0,0,0,0.0),black);
++    position: relative;
++    top: 0px;
++    width: 350px;
++    height: 260px;
++}
++
++.link-all-trend{
++    color: black;
++    line-height: 1.25;
++}
++.link-all-trend:hover{
++    color: black;
++    text-decoration: none;
++}
++.link-all-trend:before{
++    display:block;
++    content: '';
++    border-bottom: solid 3px black;
++    transform: scaleX(0);
++    transition: transform 200ms ease-in-out;
++    position: relative;
++    top: 24px;
++    width: 155px;
++}
++.link-all-trend:hover:before { transform: scaleX(1); }
++.link-all-trend:before{  transform-Origin:  0% 50%; }
+\ No newline at end of file
+Index: webReview.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- webReview.html	(date 1603874383521)
++++ webReview.html	(date 1603874383521)
+@@ -0,0 +1,180 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Web Review</title>
++    <link rel="stylesheet" href="webReview.css">
++    <script src="https://kit.fontawesome.com/e8ab58121b.js" crossorigin="anonymous"></script>
++    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap" rel="stylesheet">
++</head>
++<body>
++    <div class="content">
++        <div class="topstr">
++            <div class="topstr_header">
++                <p class="topstr_header_content">
++                    Top Stories
++                </p>
++            </div>
++
++            <div class="body_content_topstr">
++                <div class="topstr_content_fist">
++                    <div class="zoomin noidung">
++
++                        <a href="#">
++                            <img class="zoomin1" src="./imgSonBe/topstories1.jpg" alt="" width="730" height="547">
++                        </a>
++                    </div>
++                    <div class="backgr-text"></div>
++                    <div class="move">
++                        <ul class="list_content">
++                            <li class="list_one">
++                                <p><a  class="fist_list_content" href="#">Công thức</a></p>
++                            </li>
++                            <li class="list_two">
++                                <p><a id="block_1-1" class="big_link" href="#">Bật mí cách làm món bồ câu hầm thuốc bắc bồi bổ sức khỏe</a></p>
++                            </li>
++                        </ul>
++                        <ul class="list_content2">
++                            <li>
++                                <span>By <a class="small_link" href="#">Food Wiki&ensp;</a>.</span>
++                            </li>
++                            <li>&ensp;27/08/20</li>
++                            <li>
++                                <a class="small_link" href="#">&emsp;18 lượt xem</a>
++                            </li>
++                        </ul>
++                    </div>
++                </div>
++
++                <div class="topstr_content_second">
++                    <div class="topstr_content_second1">
++                        <div class="zoomin noidung">
++                            <a href="#">
++                                <img class="zoomin1" class="img2" src="./imgSonBe/topstories2.jpg" alt="" width="350" height="257">
++                            </a>
++                        </div>
++                        <div class="backgr-text2"></div>
++                        <div class="move2">
++                            <ul class="list_content3">
++                                <li><p><a class="fist_list_content" href="#">Đồ Uống</a></p></li>
++                                <li><p><a id="block_1-2" class="biglink2" href="#">Cách làm cocktail trái cây giải nhiệt cực đã cho mùa hè này</a></p></li>
++                                <li><p class="author">By Amachea Jajah</p></li>
++                            </ul>
++                        </div>
++                    </div>
++
++                    <div class="topstr_content_second2">
++                        <div class="topstr_content_third">
++                            <div class="zoomin noidung">
++                                <a href="#">
++                                    <img class="zoomin1" class="zoomin1" src="./imgSonBe/topstories3.jpg" alt="" width="350" height="257">
++                                </a>
++                            </div>
++                            <div class="backgr-text2"></div>
++                            <div class="move3">
++                                <ul class="list_content3">
++                                    <li><p><a class="fist_list_content" href="#">Đồ Uống</a></p></li>
++                                    <li><p><a id="block_1-3" class="biglink2" href="#">03 cách làm sinh tố giảm cân thơm ngon uống hoài không chán</a></p></li>
++                                    <li><p class="author">By Amachea Jajah</p></li>
++                                </ul>
++                            </div>
++                        </div>
++                    </div>
++                </div>
++
++            </div>
++        </div>
++        <div class="all-trendingstr">
++            <div class="trendingstr">
++            <div class="trendingstr-header">
++                <ul class="trendingstr-header-list">
++                    <li class="text-trendingstr">Trending Stories</li>
++                    <li><a class="link-all-trend" href="#">ALL TRENDING STORIES</a></li>
++                </ul>
++            </div>
++
++            <div class="trendingstr-content">
++                <div class="trendingstr1">
++                    <div class="trendingstr1_1">
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/trensdingStr1.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">Khám phá</a></p></li>
++                            <li><p><a id="block_1-4" class="big-link-trend" href="#">Những món phải thử khi đi du lịch Huế</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++
++
++                <div class="trendingstr2">
++                    <div>
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/trensdingStr4.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending2">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">Khám phá</a></p></li>
++                            <li><p><a id="block_1-5" class="big-link-trend" href="#">Thanh xuân này, nhất định phải một lần đi Mù Cang Chải mùa lúa chín</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++
++                <div class="trendingstr1">
++                    <div>
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/trensdingStr2.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">Khám phá</a></p></li>
++                            <li><p><a id="block_1-6" class="big-link-trend" href="#">Check in ngay đồng cỏ lau đẹp hút hồn trong trung tâm thành phố Hà Nội</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++
++                <div class="trendingstr2">
++                    <div>
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/topstories1.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending2">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">CÔng thức</a></p></li>
++                            <li><p><a id="block_1-7" class="big-link-trend" href="#">Bật mí cách làm món bồ câu hầm thuốc bắc bồi bổ sức khỏe</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++
++                <div class="trendingstr1">
++                    <div>
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/trensdingStr3.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">Món ăn</a></p></li>
++                            <li><p><a class="big-link-trend" href="#">Cách làm món sườn chua ngọt cả nhà đều khen bạn chưa biết?</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++
++                <div class="trendingstr2">
++                    <div>
++                        <div class="zoomin noidung">
++                            <img class="zoomin1" src="./imgSonBe/trensdingStr6.jpg" alt="" width="140" height="140">
++                        </div>
++                        <ul class="list-content-trending2">
++                            <li><p class="text-fist-list"><a  class="fist-list-trend" href="#">Dinh dưỡng</a></p></li>
++                            <li><p><a class="big-link-trend" href="#">Top 5 loại thực phẩm tốt cho gan mà bạn nên sử dụng thường xuyên</a></p></li>
++                            <li><p class="author2">By <a class="small_link2" href="#">Kiều Oanh</a></p></li>
++                        </ul>
++                    </div>
++                </div>
++            </div>
++        </div>
++        </div>
++    </div>
++ z</body>
++</html>
+\ No newline at end of file
