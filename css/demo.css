@@ -5,6 +5,11 @@
 .bg-grey-dark-key {
     background-color: #000000;
 }
+
+.container {
+    position: relative;
+}
+
 .footer-mid {
     padding: 3rem 0;
 }
@@ -78,23 +83,22 @@
     font-size: 20px;
     background: #121213;
     padding: 3px;
-    width: 40px;
+    width: 35px;
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
 }
-.icon98 {
+.icon1 i{
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
-.icon98:hover{
+.icon1 i:hover{
     background-color: #FF2C54;
-    width: 1em;
-    height: 1em;
-    border-radius: 100%;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 .social-share .icon2{
@@ -106,20 +110,18 @@
     border-radius: 100%;
     list-style-type: none;
 }
-.icon99{
+.icon2 i{
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
-.icon99:hover{
+.icon2 i:hover{
     background-color: #FF2C54;
-    width: 1em;
-    height:1em;
-    border-radius: 100%;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-
 }
 .social-share .icon3{
     font-size: 20px;
@@ -129,18 +131,17 @@
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
-}.icon97 {
+}.icon3 i{
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
-.icon97:hover{
+.icon3 i:hover{
     background-color: #FF2C54;
-    width: 1em;
-    height: 1em;
-    border-radius: 100%;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 .social-share .icon4{
@@ -150,19 +151,18 @@
     width: 35px;
     text-align: center;
     border-radius: 100%;
-    list-style-type:    none;
-}.icon96{
+    list-style-type: none;
+}.icon4 i{
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
-.icon96:hover{
+.icon4 i:hover{
     background-color: #FF2C54;
-    width: 1em;
-    height: 1em;
-    border-radius: 100%;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg);
 }
 
@@ -271,5 +271,5 @@
     color: #ff253a;
 }
 .footer-bottom .axil-copyright-txt {
-    color:#6b7074 ;
+   color:#6b7074 ;
 }
