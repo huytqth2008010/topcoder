@@ -104,10 +104,10 @@ function footer() {
         "                        <div class=\"footer-social-share\">\n" +
         "                            <div class=\"axil-social-title\">Find us here</div>\n" +
         "                            <ul class=\"social-share social-share__with-bg\">\n" +
-        "                                <li><a class=\"icon1\" href=\"https://www.facebook.com/tapchifood/\"><i class=\"fab fa-facebook-f\"></i></a></li>\n" +
-        "                                <li><a class=\"icon2\" href=\"#\"><i class=\"fab fa-twitter\"></i></a></li>\n" +
-        "                                <li><a class=\"icon3\" href=\"#\"><i class=\"fab fa-instagram\"></i></a></li>\n" +
-        "                                <li><a class=\"icon4\" href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>\n" +
+        "                                <li><a class=\"icon1\" href=\"https://www.facebook.com/tapchifood/\"><i class=\"fab fa-facebook-f\ icon99"></i></a></li>\n" +
+        "                                <li><a class=\"icon2\" href=\"#\"><i class=\"fab fa-twitter\ icon98"></i></a></li>\n" +
+        "                                <li><a class=\"icon3\" href=\"#\"><i class=\"fab fa-instagram\ icon97"></i></a></li>\n" +
+        "                                <li><a class=\"icon4\" href=\"#\"><i class=\"fab fa-linkedin-in\ icon96"></i></a></li>\n" +
         "                            </ul>\n" +
         "                        </div>\n" +
         "                    </div>\n" +
