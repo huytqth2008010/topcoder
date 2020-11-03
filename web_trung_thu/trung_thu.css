@@ -1,0 +1,85 @@
+#PhanDau{
+    position: fixed;
+    z-index: 999;
+}
+
+#web1_1{
+    background-color: white;
+    padding: 70px;
+}
+.Trung_thu{
+
+    position: absolute;
+    top: 108px;
+}
+.trung_thu1_1{
+    color: black;
+}
+.trung_thu1_1:hover{
+    color: red;
+    text-decoration: none;
+}
+
+
+
+#web1_2{
+    height: 300px;
+    background-color: #f9f9f9;
+    margin-top: 45px;
+}
+.trung_thu2_1{
+    position: relative;
+    top: 50px;
+    z-index: 99;
+    width: 92px;
+    margin-top: -36px;
+}
+.trung_thu2_2 {
+    padding-top: 70px;
+}
+.trung_thu2_3 {
+    padding-top: 10px;
+}
+.trung_thu2_3 a{
+    color: silver;
+}
+.trung_thu2_3 a:hover{
+    color:red;
+    text-decoration: none;
+}
+
+
+.trung_thu3{
+    padding-top: 50px;
+    margin-left: -12px;
+}
+.trung_thu3-1{
+    font-size: 20px;
+}
+.trung_thu3-2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+.trung_thu3-3{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.trung_thu3-3 a{
+    border: 2px solid silver;
+    padding: 8px;
+    margin-left: 5px;
+    color: black;
+    transition: 0.5s;
+}
+.trung_thu3-3 a:hover{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+.trung_thu3-4-1 i{
+    border: 1px solid;
+}
+.trung_thu3-4{
+    margin-bottom: 30px;
+}
