@@ -5,11 +5,14 @@
 .bg-grey-dark-key {
     background-color: #000000;
 }
+<<<<<<< HEAD
 
 .container {
     position: relative;
 }
 
+=======
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
 .footer-mid {
     padding: 3rem 0;
 }
@@ -88,18 +91,29 @@
     border-radius: 100%;
     list-style-type: none;
 }
+<<<<<<< HEAD
 .icon1 i{
+=======
+.icon99{
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
+<<<<<<< HEAD
 .icon1 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+=======
+.icon99:hover{
+    background-color: #FF2C54;
+    -webkit-transform: rotate(45deg);
+    border-radius: 100%;
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 .social-share .icon2{
     font-size: 20px;
@@ -110,18 +124,29 @@
     border-radius: 100%;
     list-style-type: none;
 }
+<<<<<<< HEAD
 .icon2 i{
+=======
+.icon98{
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
+<<<<<<< HEAD
 .icon2 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+=======
+.icon98:hover{
+    background-color: #FF2C54;
+    -webkit-transform: rotate(45deg);
+     border-radius: 100%;
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 .social-share .icon3{
     font-size: 20px;
@@ -131,18 +156,29 @@
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
+<<<<<<< HEAD
 }.icon3 i{
+=======
+}.icon97{
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
+<<<<<<< HEAD
 .icon3 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+=======
+.icon97:hover{
+    background-color: #FF2C54;
+    -webkit-transform: rotate(45deg);
+    border-radius: 100%;
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 .social-share .icon4{
     font-size: 20px;
@@ -152,18 +188,29 @@
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
+<<<<<<< HEAD
 }.icon4 i{
+=======
+}.icon96{
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
+<<<<<<< HEAD
 .icon4 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+=======
+.icon96:hover{
+    background-color: #FF2C54;
+    -webkit-transform: rotate(45deg);
+    border-radius: 100%;
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 
 .footer-mid {

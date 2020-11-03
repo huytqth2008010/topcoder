@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +17,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jGAB1FfN4XnWr9d775bv2HmIgb" />
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +28,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Webstorm" />
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -40,7 +53,10 @@
       <workItem from="1603876635885" duration="308000" />
       <workItem from="1603894989553" duration="780000" />
       <workItem from="1603950805081" duration="22000" />
+<<<<<<< HEAD
       <workItem from="1604035199927" duration="923000" />
+=======
+>>>>>>> af256bdd239c813733be303de4d98ca25e389920
     </task>
     <task id="LOCAL-00001" summary="Son them file">
       <created>1603895294951</created>
