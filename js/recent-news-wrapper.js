@@ -34,6 +34,9 @@ function recent_news_wrapper() {
         "\n" +
         "            <div class=\"HieuUng\">\n" +
         "                <div class=\"khung3\">\n" +
+        "                    <div class=\"KHUNG_1\">\n" +
+        "                        <button class=\"btn\"><span class=\"KHUNG_1-1\"><b>Đồ uống</b></span></button>\n" +
+        "                    </div>\n" +
         "                    <div class=\"block subcribe\">\n" +
         "                        <div class=\"zoomin noidung\"><img class=\"anh_1\" src=\"img/3.jpg\" height=\"150\" width=\"150\"/></div>\n" +
         "                        <div class=\"block_1\">\n" +
@@ -47,6 +50,9 @@ function recent_news_wrapper() {
         "\n" +
         "            <div class=\"HieuUng\">\n" +
         "                <div class=\"khung3\">\n" +
+        "                    <div class=\"KHUNG_1\">\n" +
+        "                        <button class=\"btn\"><span class=\"KHUNG_1-1\"><b>Ăn vặt</b></span></button>\n" +
+        "                    </div>\n" +
         "                    <div class=\"block subcribe\">\n" +
         "                        <div class=\"zoomin noidung\"><img class=\"anh_1\" src=\"img/4.jpg\" height=\"150\" width=\"150\"/></div>\n" +
         "                        <div class=\"block_1\">\n" +
@@ -60,6 +66,9 @@ function recent_news_wrapper() {
         "\n" +
         "            <div class=\"HieuUng\">\n" +
         "                <div class=\"khung3\">\n" +
+        "                    <div class=\"KHUNG_1\">\n" +
+        "                        <button class=\"btn\"><span class=\"KHUNG_1-1\"><b>Dinh Dưỡng</b></span></button>\n" +
+        "                    </div>\n" +
         "                    <div class=\"block subcribe\">\n" +
         "                        <div class=\"zoomin noidung\"><img class=\"anh_1\" src=\"img/5.jpg\" height=\"150\" width=\"150\"/></div>\n" +
         "                        <div class=\"block_1\">\n" +

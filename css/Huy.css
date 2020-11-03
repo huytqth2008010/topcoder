@@ -18,19 +18,21 @@ img{
 .section{
     float: left;
     width: 100%;
-
-}
-.container{
-    width: 1170px;
-    margin: 0 auto;
-    float: none;
-
 }
 .header{
+    background-color: white;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px;
+    margin-bottom: -8px;
+}
+.header99{
     background-color: black;
     border-bottom: 1px solid #f2f2f2;
     padding: 10px;
     margin-bottom: -8px;
+}
+.recent_news_wrapper{
+    background-color: white;
 }
 nav{
     background-color: #ffffff;
@@ -176,7 +178,7 @@ nav{
 .dropdown-content{
     display: none;
     position: absolute;
-    z-index: 1;
+    z-index: 999;
     list-style: none;
     background-color: #ffffff;
     line-height: 2;
@@ -528,8 +530,6 @@ nav{
     position: relative;
     top: 500px;
     z-index: 99;
-    border: 1px solid #222222;
-    background-color: #222222;
     width: 92px;
     margin-top: -36px;
 }
@@ -554,18 +554,19 @@ nav{
     font-weight: 700;
     font-size: 15px;
     background-color: #222;
-    padding: 17px 80px;
     margin: 0 auto;
     border: 1px solid #337ab7;
 }
 .Khung_1{
-    padding-left: 25px;
     position: relative;
     left: -9px;
     z-index: 1;
 }
+button.btn{
+    padding: 6px 30px;
+    line-height: 1;
+}
 .KHUNG_1-1{
-    padding-left: 25px;
     position: relative;
     left: -9px;
     z-index: 1;
@@ -592,4 +593,14 @@ nav{
 
 .btn:hover:after {
     transform: translateX(-9%) translateY(-25%) rotate(45deg);
+}
+
+#dong_ho #thoi_gian{
+    display:flex;
+}
+#dong_ho #thoi_gian div{
+    position: relative;
+    left: -1110px;
+    top: 9px;
+    color: silver;
 }

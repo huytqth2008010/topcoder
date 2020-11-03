@@ -1,0 +1,16 @@
+Index: home1.html
+===================================================================
+--- home1.html	(revision e26bb21b69f8b36ba39289b4d7019e688d8b320c)
++++ home1.html	(revision e26bb21b69f8b36ba39289b4d7019e688d8b320c)
+@@ -1,10 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-</head>
+-<body>
+-    <h1>Giang ăn cu</h1>
+-</body>
+-</html>
+\ No newline at end of file
