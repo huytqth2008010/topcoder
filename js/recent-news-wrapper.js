@@ -10,7 +10,7 @@ function recent_news_wrapper() {
         "\n" +
         "                <div class=\"HieuUng\">\n" +
         "                    <div class=\"zoomin noidung\"><img src=\"img/1.jpg\" height=\"550\" width=\"660\" class=\"anh_1\"/></div>\n" +
-        "                    <h1><b><a href=\"#\" class=\"content1\">Trung Thu đi đâu để không đông đúc, có ảnh đẹp mà vẫn được thưởng thức đồ uống ngon?</a></b></h1>\n" +
+        "                    <h1><b><a href=\"https://topcoder5.herokuapp.com/web_trung_thu_Huy_update/trungthu.html\" class=\"content1\">Trung Thu đi đâu để không đông đúc, có ảnh đẹp mà vẫn được thưởng thức đồ uống ngon?</a></b></h1>\n" +
         "                    <p>By  <a href=\"#\" class=\"content_1\">Kiều Oanh</a> . 23/09/2020<a href=\"#\" class=\"content_1\"> 31 Lượt xem</a></p>\n" +
         "                </div>\n" +
         "            </div>\n" +
