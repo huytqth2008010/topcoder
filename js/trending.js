@@ -11,11 +11,7 @@ function trending(){
         "                <div class=\"trendingstr1\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/trensdingStr1.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/trensdingStr1.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">Khám phá</a></p></li>\n" +
@@ -28,11 +24,7 @@ function trending(){
         "                <div class=\"trendingstr2\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/trensdingStr4.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/trensdingStr4.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending2\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">Khám phá</a></p></li>\n" +
@@ -45,11 +37,7 @@ function trending(){
         "                <div class=\"trendingstr1\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/trensdingStr2.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/trensdingStr2.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">Khám phá</a></p></li>\n" +
@@ -62,11 +50,7 @@ function trending(){
         "                <div class=\"trendingstr2\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/topstories1.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/topstories1.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending2\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">CÔng thức</a></p></li>\n" +
@@ -79,11 +63,7 @@ function trending(){
         "                <div class=\"trendingstr1\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/trensdingStr3.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/trensdingStr3.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">Món ăn</a></p></li>\n" +
@@ -96,11 +76,7 @@ function trending(){
         "                <div class=\"trendingstr2\">\n" +
         "                    <div class=\"trendingstr1_1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/trensdingStr6.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/trensdingStr6.jpg\" alt=\"\" width=\"140\" height=\"140\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </div>\n" +
         "                        <ul class=\"list-content-trending2\">\n" +
         "                            <li><p class=\"text-fist-list\"><a  class=\"fist-list-trend\" href=\"#\">Dinh dưỡng</a></p></li>\n" +
@@ -112,10 +88,5 @@ function trending(){
         "            </div>\n" +
         "            </div>\n" +
         "        </div>"
-<<<<<<< HEAD
 }var td = document.getElementById("trending");
 td.innerHTML = trending();
-=======
-}var trending = document.getElementById("trending");
-trending.innerHTML = trending();
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
