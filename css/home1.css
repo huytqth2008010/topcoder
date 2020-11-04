@@ -1,191 +1,3 @@
-<<<<<<< HEAD
-=======
-
-.video-post{
-    margin-top: 20px;
-    height: 580px;
-    /*background: linear-gradient(rgba(0,0,0,0),black);*/
-    background-color: black;
-}
-.video-s{
-    width: 1170px;
-    height: 580px;
-    margin: auto;
-    padding-top: 15px;
-}
-.video-top{
-    width: 1170px;
-    height: 50px;
-    margin: auto;
-    padding-top: 14px;
-}
-.video-main{
-    width: 1170px;
-    height: 524px;
-    float: left;
-}
-.video-main-left{
-    width: 66.67%;
-    height: 90%;
-    float: left;
-    position: relative;
-    overflow: hidden;
-}
-
-.hover-1{
-    width: 100%;
-    height: 472px;
-}
-.hover-1 p{
-    position: absolute;
-    z-index: 5;
-}
-.hover-1 a{
-    transition: all 1s;
-}
-.hover-1:hover>a{
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}
-.video-main-left-img{
-    overflow: hidden;
-    max-height: 100%;
-    position: absolute;
-}
-.video-main-left-text{
-    position: absolute;
-    top: 300px;
-    left: 50px;
-    z-index: 5;
-}
-.video-main-left-text h3{
-    margin-top: 0;
-}
-.video-day{
-    float: left;
-    margin-top: 15px;
-}
-.video-day ul{
-    color: white;
-    opacity: 0.7;
-}
-.video-day li{
-    float: left;
-    list-style: none;
-    margin-right: 20px;
-
-}
-.video-day li a{
-    color: white;
-}
-.video-day li a:hover{
-    color: red;
-}
-.video-main-left-text b{
-    font-size: 35px;
-
-}
-
-.video-main-right{
-    width: 33.33%;
-    height: 90%;
-    float: right;
-}
-
-.video-main-right-1{
-    position: relative;
-    width: 360px;
-    height: 124px;
-}
-.video-main-right-2{
-    margin-top: 30px;
-    position: relative;
-    width: 360px;
-    height: 124px;
-}
-.video-right{
-
-    width: 100%;
-    float: left;
-}
-.video-1{
-    float: left;
-    overflow: hidden;
-    width: 34%;
-}
-.video-1 a img{
-    transition: all 0.5s;
-}
-.video-1:hover>a>img{
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-}
-
-.text-right-1{
-    width: 66%;
-    float: right;
-    padding-left: 20px;
-}
-.media a{
-    color: blue;
-}
-.media a:hover{
-    color: crimson;
-}
-.text-right-1 h4{
-    width: 210px;
-}
-.text-right-1 h4 a{
-    color: white;
-    font-size: 18px;
-    overflow: hidden;
-    line-height: 1.3;
-}
-
-.text-right-2 ul{
-    list-style: none;
-    float: left;
-}
-.text-right-2 li{
-    float: left;
-    color: white;
-    opacity: 0.6;
-    margin-right: 10px;
-}
-.text-right-2 ul a{
-    opacity: 0.6;
-    color: white;
-}
-.text-right-2 ul a:hover{
-    color: orangered;
-}
-.play-video{
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    top: 37%;
-    left: 12%;
-    background-color: white;
-    text-align: center;
-    border-radius: 100%;
-    padding-left: 3px;
-    padding-top: 11px;
-}
-
-
-.video-top h2{
-    margin-top: -12px;
-    float: left;
-    font-size: 30px;
-    width: 30%;
-}
-.video-top a{
-    margin-left: 700px ;
-}
-.container{
-    padding: 0;
-}
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 .col-md-8{
     padding: 0;
 }
@@ -242,14 +54,10 @@
     70%  {background-color: brown;}
     100% {background-color: yellowgreen;}
 }
-<<<<<<< HEAD
 /*img{*/
 /*    max-height: 300px;*/
 /*    max-width: 300px;*/
 /*}*/
-=======
-
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 .text-main{
     float: left;
     overflow: hidden;
@@ -291,7 +99,6 @@ span:hover:before{
     opacity: 0.6;
 }
 
-<<<<<<< HEAD
 .post-block:hover .hover-line a {
     background-size: 100% 2px
 }
@@ -304,8 +111,6 @@ span:hover:before{
     background-size: 100% 2px!important
 }
 
-=======
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 .hover-line a {
     position: relative;
     display: inline;
@@ -364,7 +169,6 @@ span:hover:before{
 }
 
 .related-post{
-<<<<<<< HEAD
     margin: auto;
     /*float: left;*/
 }
@@ -372,13 +176,6 @@ span:hover:before{
     margin-top: 20px;
     padding-left: 15px;
     height: 70px;
-=======
-    margin-top: 30px;
-}
-.related-post-top{
-    margin-top: 30px;
-    height: 60px;
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
     width: 100%;
 }
 .related-post-top h2{
@@ -388,21 +185,13 @@ span:hover:before{
 }
 .related-post-top a{
     width: 70%;
-<<<<<<< HEAD
     margin-left: 650px;
-=======
-    margin-left: 685px;
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
     color: black;
 }
 .related-post-top a:hover{
     color: #2aabd2;
 }
 .related-post-main{
-<<<<<<< HEAD
-=======
-    margin-top: 15px;
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
     height: 400px;
 }
 .related-post-main-img{
@@ -410,30 +199,11 @@ span:hover:before{
     position: relative;
     z-index: 0;
 }
-<<<<<<< HEAD
 .col-md-4{
     width: 250px;
     margin-left: 30px;
     overflow: hidden;
     padding: 0;
-=======
-
-.col-md-4-1{
-    width: 292px;
-    overflow: hidden;
-    padding: 10px;
-    position: relative;
-}
-
-/*Thêm màu*/
-.blackdown{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(45deg, black, #40333300);
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 .anh-son{
     transition: all 0.5s;
@@ -443,19 +213,11 @@ span:hover:before{
     transform: scale(1.1);
 
 }
-<<<<<<< HEAD
 
 .text-a{
     text-decoration: none;
     display: block;
     width: 100%;
-=======
-.text-a{
-    width: 100%;
-    text-decoration: none;
-    display: block;
-    height: 100%;
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 }
 .related-post-main-text{
     z-index: 5;
@@ -466,10 +228,6 @@ span:hover:before{
     width: 100%;
     height: 50%;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
 .related-post-main-text h3{
     height: 80%;
     margin-top: -10px;
@@ -484,8 +242,4 @@ span:hover:before{
 }
 .related-post-main-text .text-main-a2:hover{
     color: orangered;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> af256bdd239c813733be303de4d98ca25e389920

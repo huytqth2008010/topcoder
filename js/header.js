@@ -2,7 +2,7 @@ function header() {
     return "<header class=\"section header99\">\n" +
         "        <div class=\"container\">\n" +
         "            <div class=\"top\">\n" +
-        "                <p>&ensp;&emsp;August 18, 2020 &emsp; Thời Gian :</p>\n" +
+        "                <p>&ensp;&emsp;August 18, 2020 &emsp; 6:22 Pm</p>\n" +
         "            </div>\n" +
         "            <div class=\"top-icon\">\n" +
         "                <ul>\n" +
@@ -112,9 +112,9 @@ function Dong_ho() {
     var Gio_hien_tai = new Date().getHours();
     var Phut_hien_tai = new Date().getMinutes();
     var Giay_hien_tai = new Date().getSeconds();
-    gio.innerHTML = Gio_hien_tai;
-    phut.innerHTML = Phut_hien_tai;
-    giay.innerHTML = Giay_hien_tai;
+    gio.innerHTML = Gio_hien_tai>=10?Gio_hien_tai:"0"+Gio_hien_tai;
+    phut.innerHTML = Phut_hien_tai>=10?Phut_hien_tai:"0"+Phut_hien_tai;
+    giay.innerHTML = Giay_hien_tai>=10?Giay_hien_tai:"0"+Giay_hien_tai;
 
 }
 var Dem_gio = setInterval(Dong_ho, 1000);
