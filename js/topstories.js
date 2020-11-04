@@ -9,7 +9,7 @@ function topstories() {
         "                <div class=\"topstr_content_fist\">\n" +
         "                    <div class=\"zoomin noidung\">\n" +
         "                        <a href=\"#\">\n" +
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/topstories1.jpg\" alt=\"\" width=\"730\" height=\"547\">\n" +
+        "                            <img class=\"zoomin1\" src=\"img/topstories1.jpg\" alt=\"\" width=\"730\" height=\"547\">\n" +
         "                        </a>\n" +
         "                    </div>\n" +
         "                    <div class=\"backgr-text\"></div>\n" +
@@ -38,7 +38,7 @@ function topstories() {
         "                    <div class=\"topstr_content_second1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
         "                            <a href=\"#\">\n" +
-        "                                <img class=\"zoomin1\" class=\"img2\" src=\"../imgSonBe/topstories2.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
+        "                                <img class=\"zoomin1\" class=\"img2\" src=\"img/topstories2.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
         "                            </a>\n" +
         "                        </div>\n" +
         "                        <div class=\"backgr-text2\"></div>\n" +
@@ -55,7 +55,7 @@ function topstories() {
         "                        <div class=\"topstr_content_third\">\n" +
         "                            <div class=\"zoomin noidung\">\n" +
         "                                <a href=\"#\">\n" +
-        "                                    <img class=\"zoomin1\" class=\"zoomin1\" src=\"../imgSonBe/topstories3.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
+        "                                    <img class=\"zoomin1\" class=\"zoomin1\" src=\"img/topstories3.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
         "                                </a>\n" +
         "                            </div>\n" +
         "                            <div class=\"backgr-text2\"></div>\n" +
@@ -72,5 +72,5 @@ function topstories() {
         "            </div>\n" +
         "    </div>"
 }
-var topstories = document.getElementById("topstories");
-topstories.innerHTML = topstories();
+var topstr = document.getElementById("topstories");
+topstr.innerHTML = topstories();

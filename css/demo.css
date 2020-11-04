@@ -5,6 +5,11 @@
 .bg-grey-dark-key {
     background-color: #000000;
 }
+
+.container {
+    position: relative;
+}
+
 .footer-mid {
     padding: 3rem 0;
 }
@@ -70,93 +75,95 @@
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     list-style: none;
-    padding: 3px;
-    margin: 3px;
+    padding: 0;
+    margin: 0;
     overflow: hidden;
-    margin-top: -27px;
-    margin-left: 108px;
 }
-.social-share .icon99{
+.social-share .icon1{
     font-size: 20px;
     background: #121213;
-    width: 1.3em;
-    height: 1.3em;
+    padding: 3px;
+    width: 35px;
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
 }
-.icon99{
+.icon1 i{
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
-.icon99:hover{
+.icon1 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
-    border-radius: 100%;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
-.social-share .icon98{
+.social-share .icon2{
     font-size: 20px;
     background: #121213;
-    width: 1.3em;
-    height: 1.3em;
+    padding: 3px;
+    width: 35px;
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
 }
-.icon98{
+.icon2 i{
     color: white;
     padding: .1em;
     width: 1em;
     height:1em;
     transition: .3s all;
 }
-.icon98:hover{
+.icon2 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
-     border-radius: 100%;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
-.social-share .icon97{
+.social-share .icon3{
     font-size: 20px;
     background: #121213;
-    width: 1.3em;
-    height: 1.3em;
+    padding: 3px;
+    width: 35px;
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
-}.icon97{
+}.icon3 i{
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
-.icon97:hover {
+.icon3 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
-    border-radius: 100%;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
-.social-share .icon96{
+.social-share .icon4{
     font-size: 20px;
     background: #121213;
-    width: 1.3em;
-    height: 1.3em;
+    padding: 3px;
+    width: 35px;
     text-align: center;
     border-radius: 100%;
     list-style-type: none;
-}.icon96{
+}.icon4 i{
      color: white;
      padding: .1em;
      width: 1em;
      height:1em;
      transition: .3s all;
  }
-.icon96:hover{
+.icon4 i:hover{
     background-color: #FF2C54;
     -webkit-transform: rotate(45deg);
-    border-radius: 100%;
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
 
 .footer-mid {

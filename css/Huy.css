@@ -401,7 +401,7 @@ nav{
 .block_1-3:hover:after {
     transition-delay:100ms;
 }
-.block_1-3:hover:after, .block_1-3:hover:before { transform: scaleX(1);}
+.block_1-3:hover:after, .block_1-3:hover:before { transform: scaleX(1); }
 .block_1-3:after, .block_1-3:before{  transform-Origin:  0% 50%; }
 
 .block_1-4{
