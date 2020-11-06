@@ -161,7 +161,7 @@ function siderbar() {
         "                    <div class=\"axil-content\">\n" +
         "                        <div class=\"post-block\">\n" +
         "                            <a href=\"#\" class=\"post-block-thuml\">\n" +
-        "                                <img src=\"img/meo-vat-voi-ruou-7-3bv00rd7inoommc2nkasqo.png\">\n" +
+        "                                <img class='thumb-sidebar' src=\"img/meo-vat-voi-ruou-7-3bv00rd7inoommc2nkasqo.png\">\n" +
         "                            </a>\n" +
         "                            <div class=\"media-body\">\n" +
         "                                <div class=\"post-cat\">\n" +

@@ -189,7 +189,7 @@ span:hover:before{
     color: black;
 }
 .related-post-top a:hover{
-    color: #2aabd2;
+    /*color: #2aabd2;*/
 }
 .related-post-main{
     height: 400px;

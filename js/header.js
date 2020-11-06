@@ -2,7 +2,7 @@ function header() {
     return "<header class=\"section header99\">\n" +
         "        <div class=\"container\">\n" +
         "            <div class=\"top\">\n" +
-        "                <p>&ensp;&emsp;August 18, 2020 &emsp; 8:49 am</p>\n" +
+        "                <p>&ensp;&emsp;August 18, 2020 &emsp;  8:49 am</p>\n" +
         "            </div>\n" +
         "            <div class=\"top-icon\">\n" +
         "                <ul>\n" +
