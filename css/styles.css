@@ -1784,6 +1784,18 @@ a: hover{
     height: 160px;
     background-color: #711D2D;
     margin-bottom: 12px;
+    padding-top: 50px;
+}
+.item_1-1{
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+}
+.item_1-2{
+    color: silver;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: -16px;
 }
 .item_2{
     float: right;
@@ -1791,18 +1803,21 @@ a: hover{
     width: 168px;
     height: 160px;
     background-color: #711D2D;
+    padding-top: 50px;
 }
 .item_3{
     float: left;
     width: 168px;
     height: 160px;
     background-color: #711D2D;
+    padding-top: 50px;
 }
 .item_4{
     float: right;
     width: 168px;
     height: 160px;
     background-color: #711D2D;
+    padding-top: 50px;
 }
 .Slide{
     height: 380px;

@@ -94,7 +94,7 @@ function footer() {
         "                <div class=\"col-md-9\">\n" +
         "                    <div class=\"footer-logo-container\">\n" +
         "                        <a href=\"index.html\">\n" +
-        "                            <img src=\"https://review.food.com.vn/wp-content/uploads/2020/09/logo.png\" alt=\"footer logo\"\n" +
+        "                            <img src=\"img/logo.jpg\" alt=\"footer logo\"\n" +
         "                                 class=\"footer-logo\">\n" +
         "                        </a>\n" +
         "                    </div>\n" +
