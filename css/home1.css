@@ -54,10 +54,7 @@
     70%  {background-color: brown;}
     100% {background-color: yellowgreen;}
 }
-/*img{*/
-/*    max-height: 300px;*/
-/*    max-width: 300px;*/
-/*}*/
+
 .text-main{
     float: left;
     overflow: hidden;
@@ -123,7 +120,7 @@ span:hover:before{
     -webkit-transition: background-size 0.25s cubic-bezier(.785, .135, .15, .86) 0s;
     -o-transition: background-size 0.25s cubic-bezier(.785, .135, .15, .86) 0s;
     transition: background-size 0.25s cubic-bezier(.785, .135, .15, .86) 0s;
-    padding: .1% 0;
+    padding: .8% 0;
     background-repeat: no-repeat;
     color: inherit
 }
