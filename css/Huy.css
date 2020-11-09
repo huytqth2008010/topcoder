@@ -15,23 +15,14 @@ body{
 img{
     max-width: 100%;
 }
-header{
-
-    float: none;
-}
-#header{
-    width: 100%;
-    margin: 0 auto;
-    position: fixed;
-    z-index: 999;
-
-}
 .section{
     float: left;
     width: 100%;
 }
 .header{
     background-color: white;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px;
     margin-bottom: -8px;
 }
 .header99{
@@ -39,9 +30,6 @@ header{
     border-bottom: 1px solid #f2f2f2;
     padding: 10px;
     margin-bottom: -8px;
-}
-#recent_news_wrapper{
-    margin-top: 100px;
 }
 .recent_news_wrapper{
     background-color: white;
@@ -413,7 +401,7 @@ nav{
 .block_1-3:hover:after {
     transition-delay:100ms;
 }
-.block_1-3:hover:after, .block_1-3:hover:before { transform: scaleX(1);}
+.block_1-3:hover:after, .block_1-3:hover:before { transform: scaleX(1); }
 .block_1-3:after, .block_1-3:before{  transform-Origin:  0% 50%; }
 
 .block_1-4{
@@ -609,37 +597,10 @@ button.btn{
 
 #dong_ho #thoi_gian{
     display:flex;
-    width: 720px;
-    margin: auto;
-   position: relative;
-    top: -87px;
 }
 #dong_ho #thoi_gian div{
+    position: relative;
+    left: -1110px;
+    top: 9px;
     color: silver;
 }
-.trung_thu{
-    width: 1170px;
-    margin: auto;
-}
-#time #thoi_gian{
-    display:flex;
-    /*width: 720px;*/
-    /*margin: auto;*/
-    /*position: relative;*/
-    /*top: -87px;*/
-    float: left;
-    margin-left: -138px;
-}
-#time #thoi_gian div{
-    color: silver;
-}
-.trung_thu1{
-    width: 1170px;
-    margin: auto;
-    height: 30px;
-}
-.trung_thu{
-    width: 1170px;
-    margin: auto;
-}
-

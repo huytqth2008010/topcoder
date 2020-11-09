@@ -9,11 +9,7 @@ function topstories() {
         "                <div class=\"topstr_content_fist\">\n" +
         "                    <div class=\"zoomin noidung\">\n" +
         "                        <a href=\"#\">\n" +
-<<<<<<< HEAD
         "                            <img class=\"zoomin1\" src=\"img/topstories1.jpg\" alt=\"\" width=\"730\" height=\"547\">\n" +
-=======
-        "                            <img class=\"zoomin1\" src=\"../imgSonBe/topstories1.jpg\" alt=\"\" width=\"730\" height=\"547\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                        </a>\n" +
         "                    </div>\n" +
         "                    <div class=\"backgr-text\"></div>\n" +
@@ -42,11 +38,7 @@ function topstories() {
         "                    <div class=\"topstr_content_second1\">\n" +
         "                        <div class=\"zoomin noidung\">\n" +
         "                            <a href=\"#\">\n" +
-<<<<<<< HEAD
         "                                <img class=\"zoomin1\" class=\"img2\" src=\"img/topstories2.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
-=======
-        "                                <img class=\"zoomin1\" class=\"img2\" src=\"../imgSonBe/topstories2.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                            </a>\n" +
         "                        </div>\n" +
         "                        <div class=\"backgr-text2\"></div>\n" +
@@ -63,11 +55,7 @@ function topstories() {
         "                        <div class=\"topstr_content_third\">\n" +
         "                            <div class=\"zoomin noidung\">\n" +
         "                                <a href=\"#\">\n" +
-<<<<<<< HEAD
         "                                    <img class=\"zoomin1\" class=\"zoomin1\" src=\"img/topstories3.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
-=======
-        "                                    <img class=\"zoomin1\" class=\"zoomin1\" src=\"../imgSonBe/topstories3.jpg\" alt=\"\" width=\"350\" height=\"257\">\n" +
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
         "                                </a>\n" +
         "                            </div>\n" +
         "                            <div class=\"backgr-text2\"></div>\n" +
@@ -84,10 +72,5 @@ function topstories() {
         "            </div>\n" +
         "    </div>"
 }
-<<<<<<< HEAD
 var topstr = document.getElementById("topstories");
 topstr.innerHTML = topstories();
-=======
-var topstories = document.getElementById("topstories");
-topstories.innerHTML = topstories();
->>>>>>> af256bdd239c813733be303de4d98ca25e389920
