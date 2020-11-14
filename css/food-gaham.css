@@ -5,7 +5,7 @@
 
 #web1_1{
     background-color: white;
-    padding: 70px;
+    padding: 70px 70px 0 70px;
 }
 .Trung_thu{
     width: 1140px;
@@ -27,17 +27,16 @@
 #web1_2{
     height: 300px;
     background-color: #f9f9f9;
-    margin-top: 45px;
+    margin-top: 85px;
 }
 .trung_thu2_1{
-    position: relative;
     top: 30px;
-    z-index: 99;
+    width: 60px;
     padding-top: 30px;
     margin-left: 10px;
 }
 .trung_thu2_2 {
-    padding-top: 70px;
+    padding-top: 25px;
 }
 .trung_thu2_3 {
     padding-top: 10px;
@@ -663,4 +662,12 @@ nav{
     margin-left: 15px;
     font-size: 20px;
     line-height: 25px;
+}
+.thu-muc{
+    padding-top: 60px;
+}
+.name_thu-muc{
+    color: #FFFFFF;
+    padding: 5px 10px;
+    background-color: #007AFF;
 }
