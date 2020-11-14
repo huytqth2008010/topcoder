@@ -7,7 +7,7 @@ function header() {
         "            <div class=\"top-icon\">\n" +
         "                <ul>\n" +
         "                    <li><a href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>\n" +
-        "                    <li><a href=\"#\"><i class=\"fab fa-instagram\"></i></a></li>\n" +
+            "                    <li><a href=\"#\"><i class=\"fab fa-instagram\"></i></a></li>\n" +
         "                    <li><a href=\"#\"><i class=\"fab fa-twitter\"></i></a></li>\n" +
         "                    <li><a href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></li>\n" +
         "                </ul>\n" +
