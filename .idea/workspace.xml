@@ -1,45 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="">
+    <list default="true" id="08573819-6ad9-4fa0-bd0f-04d213555a89" name="Default Changelist" comment="Son them file">
+      <change afterPath="$PROJECT_DIR$/imgSonBe.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/biquyet1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/biquyet2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdejp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgSonBe/lamdep9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lam_dep/bi-quyet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lam_dep/my-pham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lam_dep/tham-mi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lam_dep/tu-nhien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_28_2020_4_20_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_28_2020_4_20_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/recent-news-wrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/recent-news-wrapper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/Huy_2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/banner-quang-cao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/meo-vat-voi-ruou-7-3bv00rd7inoommc2nkasqo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/quan-hotdog-co-chu-nguoi-han-quoc-dep-trai-4-3bur1xb7ruiunfp3n7ludc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/img/tac-dung-than-ky-cua-nuoc-vo-gao-1-3bscrq3sxalrxdg4gpxkow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/trung_thu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/trung_thu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_trung_thu_Huy/trungthu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/food-gaham.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/food-gaham.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles_son.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles_son.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lam_dep/lam_dep.html" beforeDir="false" afterPath="$PROJECT_DIR$/lam_dep/lam_dep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mu-cang-trai.html" beforeDir="false" afterPath="$PROJECT_DIR$/mu-cang-trai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_Huy_3/trung_thu.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_Huy_3/trung_thu.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="topcode" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jGAB1FfN4XnWr9d775bv2HmIgb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/font_awesome" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\topcoder\font_awesome" />
       <recent name="D:\topcoder2\css" />
       <recent name="D:\topcoder2" />
     </key>
@@ -68,13 +89,10 @@
       <workItem from="1603950805081" duration="22000" />
       <workItem from="1604035199927" duration="923000" />
       <workItem from="1604473540869" duration="177000" />
-      <workItem from="1604938718465" duration="3868000" />
-      <workItem from="1604997088805" duration="2831000" />
-      <workItem from="1605057776809" duration="21000" />
-      <workItem from="1605108467591" duration="5407000" />
-      <workItem from="1605230627762" duration="836000" />
-      <workItem from="1605263932432" duration="15644000" />
-      <workItem from="1605303054903" duration="2385000" />
+      <workItem from="1604938718465" duration="2842000" />
+      <workItem from="1605356661162" duration="684000" />
+      <workItem from="1605359497308" duration="13884000" />
+      <workItem from="1605415486133" duration="3764000" />
     </task>
     <task id="LOCAL-00001" summary="Son them file">
       <created>1603895294951</created>
@@ -90,19 +108,19 @@
       <option name="project" value="LOCAL" />
       <updated>1604940903035</updated>
     </task>
-    <task id="LOCAL-00003" summary="Huy them file">
-      <created>1604943102134</created>
+    <task id="LOCAL-00003" summary="Son them file">
+      <created>1605367278385</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1604943102134</updated>
+      <updated>1605367278385</updated>
     </task>
-    <task id="LOCAL-00004" summary="Huy them file">
-      <created>1605000249261</created>
+    <task id="LOCAL-00004" summary="Son them file">
+      <created>1605367405730</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1605000249261</updated>
+      <updated>1605367405730</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -123,26 +141,35 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Son them file" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Huy them file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Huy them file" />
+    <MESSAGE value="Son them file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Son them file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1605000248245">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1605367404893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605000248245" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605231466709">
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605367404893" />
+    <state x="154" y="65" key="DiffContextDialog" timestamp="1605367260969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605231466709" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1605000254475">
+    <state x="154" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605367260969" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603950824396">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605000254475" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1605304616875">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603950824396" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1605415876611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605304616875" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605415876611" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605359547621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605359547621" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605363101040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605363101040" />
   </component>
 </project>
